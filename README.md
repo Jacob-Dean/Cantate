@@ -9,5 +9,4 @@ FYI: The name comes from a combination of 'Incantation' and 'Cantata'
 ## References
 - [Voice Recognition Tutorial](https://www.youtube.com/watch?v=29vyEOgsW8s&ab_channel=DapperDino)
 - [Mouse Rotation Tutorial](https://www.youtube.com/watch?v=CxI2OBdhLno&ab_channel=RoyalSkies)
-![image](https://user-images.githubusercontent.com/51403633/174455403-a65e5748-4746-443a-9836-1cf1124b82dd.png)
 
